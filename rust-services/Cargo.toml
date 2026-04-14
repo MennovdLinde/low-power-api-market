@@ -1,0 +1,7 @@
+[workspace]
+members = [
+    "geo-normalizer",
+    "currency-calc",
+    "shared",
+]
+resolver = "2"
